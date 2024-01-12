@@ -7,7 +7,7 @@
 - **Https** via web browser, only for enterprised account
 - **SSH** via setting  public key of local machine into github ssh agent
 
-## 15 Github Commands and they usage
+## 15 Github Commands and their usage
 - **git config** sets the configuration values of the project. Such as the username, email, file formats, and more.
 - **git init** initialise a git repository and create the initial directory whether the project is new or already exists.
 - **git clone** create a repository copy from a remote source.
